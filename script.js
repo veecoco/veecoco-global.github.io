@@ -2,7 +2,7 @@
 
 const LESSON_NUMBER = '750'
 const COURSE_NUMBER = '21'
-const MEALS_DONATED = '6.162'
+const MEALS_DONATED = '6.991'
 
 /* CHANGE LESSON NUMBER */
 
