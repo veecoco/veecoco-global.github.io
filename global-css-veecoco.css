@@ -1,0 +1,57 @@
+/* START: Single Testimonial Boxes with photo  */
+
+.testimonial-box__container {
+    position: relative;
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: auto;
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0 10px 10px 0 rgba(0,0,0,0.15);
+    background: #fff;
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
+
+.testimonial-box__image {
+    position: absolute;
+    width: 50%;
+    height: auto;
+    max-width: 150px;
+    top: 0;
+    transform: translateY(-50%);
+    border: white solid 10px;
+    border-radius: 50%;
+}
+
+.testimonial-box__divider {
+    width: 50%;
+    height: 2px;
+    border-radius: 50%;
+    background: #e4e4e4;
+    margin: 0px auto;
+    margin-top: 75px;
+}
+
+.testimonial-box__divider--close {
+    width: 50%;
+    height: 2px;
+    border-radius: 50%;
+    background: #e4e4e4;
+    margin: 5px auto;
+}
+
+.testimonial-box__text {
+    color: #717171;
+    font-style: italic;
+}
+
+.testimonial-box__name {
+    color: #de8311;
+    font-style: italic
+}
+
+/* END: Single Testimonial Boxes with photo  */
