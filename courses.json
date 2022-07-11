@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Vegan Cheese Made Easy",
+        "description": "Learn to make delicious vegan cheese at home that will amaze your friends and family - from Parmesan to Mozzarella, Cheddar & more. ",
+        "recipes": "Cashew Cheese, Raw Parmesan, Cheddar Cheese Balls, Meltable Almond Mozzarella, Sliceable Smoked Paprika Cheese",
+        "difficulty": "beginner - intermediate",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/6SlMT42aSbe879jRwCwp_Vegan_Cheese_Made_Easy_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-cheese-made-easy"
+    },
+    {
+        "id": 2,
+        "name": "Authentic Vegan Thai",
+        "description": "Take a culinary journey to the North of Thailand and experience authentic local Thai recipes in a fully vegan way.",
+        "recipes": "Pad Thai, Tom Yum, Laab With Tofu, Pad Kra Pao, Massaman Curry",
+        "difficulty": "beginner - intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/9cux41fATKy7IT1vO5IX_Vegan_Thai_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/authentic-vegan-thai"
+    },
+    {
+        "id": 3,
+        "name": "Mouthwatering Vegan Desserts",
+        "description": "Learn to prepare delicious vegan desserts that will brighten up your day - with Julia from Banana Warrior. ",
+        "recipes": "Mixed Berry Cinnamon Roll, Pineapple Cheesecake, Nut Butter Banana Blondies, Salted Caramel Chocolate Bars, Tahini Truffles",
+        "difficulty": "beginner - intermediate",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/oSBclmnsQVuGxNVwen88_Mouthwatering_Vegan_Desserts_480px.jpg",
+        "courseurl": "https://www.veecoco.com/mouthwatering-vegan-desserts"
+    },
+    {
+        "id": 4,
+        "name": "Authentic Vegan Vietnamese",
+        "description": "Discover authentic vegan recipes from the north of Vietnam.",
+        "recipes": "Fresh Spring Rolls, Pho Noodle Soup, Bánh Mì, Fried Tofu With Tomato Sauce, Rice Noodle Salad",
+        "difficulty": "beginner - intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/rlYDjym0SRuqcnnMq1fp_Authentic_Vegan_Vietnamese_480px.jpg",
+        "courseurl": "https://www.veecoco.com/authentic-vegan-vietnamese"
+    },
+    {
+        "id": 21,
+        "name": "Vegan North American",
+        "description": "Discover how to make the American Classics in a fully vegan way - from Burgers and Burritos to Nuggets and Ribs!",
+        "recipes": "Vegan Burgers, Caesar Salad, Nuggets, French Fries, Sauces & Stocks, Vegan BBQ \"Ribs",
+        "difficulty": "intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/59602/products/SclxiReuRui5PDZIK72x_21_-_Vegan_North_American_-_1280x720_-_V1.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-north-american"
+    },
+    {
+        "id": 5,
+        "name": "Raw Food Essentials",
+        "description": "Learn the essentials of raw food and start making delicious and healthy recipes today.",
+        "recipes": "Raw Italian Pasta, Brownie & Chocolate Ganache, Berry Swirl Cheesecake, Raw Burger, Japanese Nori Sushi Rolls ",
+        "difficulty": "beginner - intermediate",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/jL7AK1vRwevDDF5H4A3d_Raw_Food_Essentials_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/raw-food-online-course"
+    },
+    {
+        "id": 6,
+        "name": "Vegan Japanese - Sushi & Ramen",
+        "description": "Discover the world of vegan Japanese food and learn to make your own delicious vegan ramen and sushi at home.",
+        "recipes": "Vegan Gyoza, Dandan Ramen, Shoyu Ramen, Nigiri and Gunkan Sushi, Sushi Cake",
+        "difficulty": "intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/SK3Cp97ySG6II7xoBVRb_Vegan_Japanese_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-japanese-sushi-and-ramen"
+    },
+    {
+        "id": 7,
+        "name": "Vegan Korean",
+        "description": "Discover the world of vegan Korean food and learn to make your own delicious vegan bibimbap, Korean pancake, bulgogi and more.",
+        "recipes": "Pajeon, Bulgogi, Gimbap, Bibimbap, Tteokbokki Pasta",
+        "difficulty": "beginner - intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/Y0SlMsZcTzGMOHSYHiga_Vegan_Korean_V1_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-korean"
+    },
+    {
+        "id": 8,
+        "name": "Raw Food Fundamentals",
+        "description": "Dive into the fundamentals of preparing healthy and delicious raw food at home. Taught by vegan chef Lauren Lovatt. ",
+        "recipes": "Chocolate Hemp Tart, Seaweed Crackers With Smoked Mushrooms And Cream Cheese, Harvest Bowl",
+        "difficulty": "beginner - intermediate",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/LsrvZY5TyejetdgCkfUx_Raw_Food_Fundamentals_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/raw-food-fundamentals"
+    },
+    {
+        "id": 9,
+        "name": "Vegan Classic Italian",
+        "description": "Learn the traditional way of making delicious Italian recipes in a fully vegan way. Taught by experienced chef Alberto.",
+        "recipes": "Pizza With Vegetables, Pici Pasta With Fake Ragout, Polenta With Mushrooms, Pumpkin Risotto, Eggplant Parmigiana",
+        "difficulty": "beginner - intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/iI3uoKenTCyX2NDnlG7s_Vegan_Classic_Italian_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-classic-italian"
+    },
+    {
+        "id": 10,
+        "name": "Vegan Swiss Chocolate & Sweets",
+        "description": "Learn how to prepare delicious high-class vegan chocolate desserts from vanilla clouds to coffee truffles to chocolate cereal bars. ",
+        "recipes": "Chocolate Dessert Cup, Vanilla Chocolate Clouds, Carrot Muffins With Coconut Lime Caramel, Chocolate Cereal Bars, Espresso Truffles",
+        "difficulty": "intermediate - advanced",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/lvyFvmO3ToeKxKDA4f9R_Vegan_Swiss_Chocolate_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-swiss-chocolate-and-sweets"
+    },
+    {
+        "id": 16,
+        "name": "Artisanal Vegan Cheese",
+        "description": "Discover the world of aged and ripened vegan cheese and craft your own rich and flavorsome pieces of vegan cheese at home.",
+        "recipes": "Cashew Cheese, Almond Cheese, Almond Ricotta, Camembert, Vegan Blue Cheese",
+        "difficulty": "intermediate - advanced",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/ZQjnRnp6Qc6ZNs1Ost74_Artisanal_Vegan_Cheese_480px.jpg",
+        "courseurl": "https://www.veecoco.com/artisanal-vegan-cheese"
+    },
+    {
+        "id": 14,
+        "name": "The Perfect Vegan Brunch",
+        "description": "Discover a selection of highly delicious vegan breakfast and brunch options for the whole family - with Marika from Plant Base Berlin.",
+        "recipes": "Tofu Scramble, Savory Pancakes, Golden Milk Porridge, Italian Porridge, Smoked Carrot \"Salmon\"",
+        "difficulty": "beginner",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/jwx2VbJiRwaX2xNQQgrG_Perfect_Vegan_Brunch_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/plantbase\n\nhttps://www.veecoco.com/the-perfect-vegan-brunch-main-page"
+    },
+    {
+        "id": 11,
+        "name": "Healthy & Easy Plant-Based Cooking",
+        "description": "Learn how to prepare delicious and super healthy whole-food plant based dishes, tips to lose or maintain a healthy weight and much more. ",
+        "recipes": "High Fiber Quinoa Bowl, Sprouted And Fermented Tempeh Sweet Potato Bowl, Tofu Bowl, Pumpkin Lentil Bowl, Chia Pudding",
+        "difficulty": "beginner",
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/9POGDoVQReKOuucMaQow_Healthy_Easy_Plant-Based_Cooking_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/healthy-and-easy-plant-based-cooking"
+    },
+    {
+        "id": 12,
+        "name": "Vegan German Classics",
+        "description": "Learn to prepare classic German recipes - Schnitzel, Rouladen, and more - in a fully vegan way from one of Germany's most distinguished vegan chefs, Johannes Nicolay. ",
+        "recipes": "Schnitzel \"Jäger Style\" With Fried Potatoes, Roulades With Baked Potatoes, Vegan Steak, Sauerkraut Soup With Gluten-Free Sausages, Sous-Vide Portabella With Mashed Potatoes And Beets",
+        "difficulty": "intermediate - advanced",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/chRLceTjSbLlISnpo9qm_Vegan_German_Classics_Thumb_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-german-classics"
+    },
+    {
+        "id": 13,
+        "name": "Fine Italian Pastries & Desserts",
+        "description": "Discover an exclusive selection of exquisite Italian pastries and desserts, all completely vegan -  with gourmet pastry chef Matteo Febbraio.",
+        "recipes": "Pandolce Genovese, Baba Napoletano, Chocolate Shortcrust, Italian Meringue, Cannoli",
+        "difficulty": "intermediate - advanced",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/hqgZXkyhSDG6VEt58gv6_Fine_Italian_Pastries_Desserts_V2_480px.jpg",
+        "courseurl": "https://www.veecoco.com/fine-italian-pastry-desserts"
+    },
+    {
+        "id": 15,
+        "name": "Vegan Pastry Essentials",
+        "description": "Discover the fundamental principles of vegan baking and start to prepare the most delightful cakes and pastries at home with ease. ",
+        "recipes": "Galette With Strawberry Tonka Filling, Cherry Crumble Cake, Chocolate Babka, Marbled Gugelhupf, Chocolate Raspberry Cake",
+        "difficulty": "beginner - intermediate",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/gEtBelBT3CTBl0slEpgC_Vegan_Pastry_Essentials_V3_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-pastry-essentials"
+    },
+    {
+        "id": 17,
+        "name": "Baking with Sourdough",
+        "description": "Learn how to bake artisan sourdough bread, authentic Italian pizza, and fluffy focaccia - at home, with ease!",
+        "recipes": "Sourdough Bread, Sourdough Pizza, Sourdough Focaccia",
+        "difficulty": "intermediate",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/gAaH2wKJTX6iFt0L1f3U_Baking_With_Sourdough_480px.jpg",
+        "courseurl": "https://www.veecoco.com/baking-with-sourdough-main-page"
+    },
+    {
+        "id": 18,
+        "name": "French Pastry Classics",
+        "description": "Learn how to create some of the world's most famous pastries from a true French pâtissier - 100% vegan and gluten-free.",
+        "recipes": "Flan Pâtissier, Apple Tart, Baba Au Rhum, Éclair, Paris-Brest",
+        "difficulty": "intermediate - advanced",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/rSF87XpS3aC2rvYBgX9Q_French_Pastry_Classics_480px.jpg",
+        "courseurl": "https://www.veecoco.com/french-pastry-classics-vegan-gluten-free-main-page"
+    },
+    {
+        "id": 19,
+        "name": "Contemporary Italian Cuisine",
+        "description": "Make the most out of everyday ingredients and explore flavorful Italian recipes with an innovative twist. Taught by Michelin-trained chef Pietro Platania.",
+        "recipes": "Aperitivo, Risotto, Ribollita, Roasted Vegetable Plate",
+        "difficulty": "beginner - intermediate",
+        "category": "international",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/KWZEzUaJQPiYxHVykVsU_Contemporary_Italian_Cuisine_480px.jpg",
+        "courseurl": "https://www.veecoco.com/contemporary-italian-cuisine"
+    },
+    {
+        "id": 20,
+        "name": "Vegan Pastry Essentials II",
+        "description": "Discover the world of vegan puff pastries - bake your own delicious croissants, pain au chocolat, and much more. Taught by vegan chef Diana Kronenberg.",
+        "recipes": "Apfelstrudel & Sweet Potato Strudel, Croissants, Pain Au Chocolat, Baklava, Pastéis De Nata",
+        "difficulty": "intermediate - advanced",
+        "category": "pastry",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/51hch7NRSa63i4AEpeA9_Vegan-Pastry-Essentials-II_480px.jpg",
+        "courseurl": "https://www.veecoco.com/vegan-pastry-essentials-2"
+    }
+]
