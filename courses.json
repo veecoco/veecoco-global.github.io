@@ -208,5 +208,15 @@
         "category": "pastry",
         "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2149455413/settings_images/51hch7NRSa63i4AEpeA9_Vegan-Pastry-Essentials-II_480px.jpg",
         "courseurl": "https://www.veecoco.com/vegan-pastry-essentials-2"
+    },
+        {
+        "id": 22,
+        "name": "Foraging Wild Herbs",
+        "description": "Discover the world of wild herbs and learn to create beautiful and unique wild herb dishes.",
+        "recipes": "Dandelion Pesto, Cappelleti with Sorrel Filling, Nettle Sponge Cake, Roasted Asparagus, Nettle Risotto",
+        "difficulty": "intermediate,
+        "category": "specialty",
+        "image": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/59602/products/LMJoyf5rTCy9AEyx93O9_22_-_Foraging-Wild-Herbs-1280x720-80-V1.jpg",
+        "courseurl": "https://www.veecoco.com/membership"
     }
 ]
