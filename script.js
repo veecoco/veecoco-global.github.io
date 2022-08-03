@@ -9,8 +9,18 @@ const MATERIALS_NUMBER = '48'
 
 const FEATURE_HTML = `
 <ul>
-  <li class="li1" style="text-align: left;">800+ lessons</li>
-  <li class="li1" style="text-align: left;">22 lessons</li>
+  <li class="li1" style="text-align: left;">800+ Lessons</li>
+  <li class="li1" style="text-align: left;">22 Courses</li>
+  <li class="li1" style="text-align: left;">New Courses Released Regularly</li>
+  <li class="li1" style="text-align: left;">Access to Private Student Community</li>
+  <li class="li1" style="text-align: left;"><strong>Coursebooks</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Shopping Lists</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Personalized Feedback</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Guided Success Path</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Q&A with Expert Chefs</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Mobile App</strong></li>
+  <li class="li1" style="text-align: left;"><strong>Bonus 1: The 77 Healthiest Vegan Foods - Vegan Nutrient Guide/strong></li>
+  <li class="li1" style="text-align: left;"><strong>Bonus 2: The Ultimate Kitchen Equipment Guide</strong></li>
 </ul>
 `
 
