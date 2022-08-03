@@ -5,6 +5,15 @@ const COURSE_NUMBER = '22'
 const MEALS_DONATED = '6.991'
 const MATERIALS_NUMBER = '48'
 
+/* DEFINE FEATURES LIST */
+
+feature_html = `
+<ul>
+  <li>800+ lessons</li>
+  <li>22 lessons</li>
+</ul>
+`
+
 /* CHANGE LESSON NUMBER */
 
 const lessonNumber = document.querySelectorAll('.lesson_number')
@@ -32,3 +41,13 @@ const mealsDonated = document.querySelectorAll('.meals_donated')
 mealsDonated.forEach((course) => {
   course.textContent = MEALS_DONATED
 })
+
+/* CHANGE FEATURES TEXT */
+
+const featuresText = document.querySelectorAll('.features_text')
+featuresText.forEach(feature => {
+  feature.innerHTML = feature_html
+})
+
+
+
