@@ -7,10 +7,10 @@ const MATERIALS_NUMBER = '48'
 
 /* DEFINE FEATURES LIST */
 
-feature_html = `
+const FEATURE_HTML = `
 <ul>
-  <li>800+ lessons</li>
-  <li>22 lessons</li>
+  <li class="li1" style="text-align: left;">800+ lessons</li>
+  <li class="li1" style="text-align: left;">22 lessons</li>
 </ul>
 `
 
@@ -46,7 +46,7 @@ mealsDonated.forEach((course) => {
 
 const featuresText = document.querySelectorAll('.features_text')
 featuresText.forEach(feature => {
-  feature.innerHTML = feature_html
+  feature.innerHTML = FEATURE_HTML
 })
 
 
