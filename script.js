@@ -19,7 +19,7 @@ const FEATURE_HTML = `
   <li class="li1" style="text-align: left;"><strong>Guided Success Path</strong></li>
   <li class="li1" style="text-align: left;"><strong>Q&A with Expert Chefs</strong></li>
   <li class="li1" style="text-align: left;"><strong>Mobile App</strong></li>
-  <li class="li1" style="text-align: left;"><strong>Bonus 1: The 77 Healthiest Vegan Foods - Vegan Nutrient Guide/strong></li>
+  <li class="li1" style="text-align: left;"><strong>Bonus 1: The 77 Healthiest Vegan Foods - Vegan Nutrient Guide</strong></li>
   <li class="li1" style="text-align: left;"><strong>Bonus 2: The Ultimate Kitchen Equipment Guide</strong></li>
 </ul>
 `
