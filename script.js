@@ -1,7 +1,7 @@
 /* DEFINE CURRENT VALUES */
 
 const LESSON_NUMBER = '800'
-const COURSE_NUMBER = '22'
+const COURSE_NUMBER = '23'
 const MEALS_DONATED = '6.991'
 const MATERIALS_NUMBER = '48'
 
@@ -10,7 +10,7 @@ const MATERIALS_NUMBER = '48'
 const FEATURE_HTML = `
 <ul>
   <li class="li1" style="text-align: left;">800+ Lessons</li>
-  <li class="li1" style="text-align: left;">22 Courses</li>
+  <li class="li1" style="text-align: left;">23 Courses</li>
   <li class="li1" style="text-align: left;">New Courses Released Regularly</li>
   <li class="li1" style="text-align: left;">Access to Private Student Community</li>
   <li class="li1" style="text-align: left;"><strong>Coursebooks</strong></li>
